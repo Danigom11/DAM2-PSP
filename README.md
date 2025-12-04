@@ -61,10 +61,10 @@ Aplicación gráfica desarrollada con Java Swing que simula una carrera de corre
 ### Ejecutar el Proyecto Final
 ```bash
 # Compilar
-javac src/Tema2/proyecto_final/*.java
+javac src/Tema2_Hilos/proyecto_final/*.java
 
 # Ejecutar
-java -cp src Tema2.proyecto_final.Main
+java -cp src Tema2_Hilos.proyecto_final.Main
 ```
 
 ### Ejecutar otros ejemplos
